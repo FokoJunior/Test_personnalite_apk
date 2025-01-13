@@ -1,12 +1,12 @@
-// lib/views/dashboard_screen.dart
+
 import 'package:flutter/material.dart';
 import '../controllers/personality_test_controller.dart';
-import 'personality_test_screen.dart'; // Importez l'écran du test
+import 'personality_test_screen.dart'; 
 
 class DashboardScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // Convertir 1 cm en logical pixels (environ 37.8 pixels pour une densité de 1)
+
     double heightInCm = 1;
     double heightInLogicalPixels = heightInCm * 37.8;
 
@@ -22,7 +22,7 @@ class DashboardScreen extends StatelessWidget {
           crossAxisCount: 2, // 2 colonnes
           crossAxisSpacing: 16,
           mainAxisSpacing: 16,
-          childAspectRatio: 2, // Ajuster le ratio largeur/hauteur
+          childAspectRatio: 2, 
           children: [
             _buildDashboardItem(
               context,
@@ -48,7 +48,7 @@ class DashboardScreen extends StatelessWidget {
               color: Colors.blue,
               height: heightInLogicalPixels,
               onTap: () {
-                // Ajoutez la navigation vers les statistiques
+                
               },
             ),
             _buildDashboardItem(
@@ -58,7 +58,7 @@ class DashboardScreen extends StatelessWidget {
               color: Colors.green,
               height: heightInLogicalPixels,
               onTap: () {
-                // Ajoutez la navigation vers les paramètres
+                
               },
             ),
             _buildDashboardItem(
@@ -68,7 +68,7 @@ class DashboardScreen extends StatelessWidget {
               color: Colors.orange,
               height: heightInLogicalPixels,
               onTap: () {
-                // Ajoutez la navigation vers l'aide
+                
               },
             ),
           ],
@@ -86,7 +86,7 @@ class DashboardScreen extends StatelessWidget {
     required VoidCallback onTap,
   }) {
     return SizedBox(
-      height: height, // Hauteur fixe de 1 cm
+      height: height, 
       child: Card(
         elevation: 4,
         shape: RoundedRectangleBorder(
