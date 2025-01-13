@@ -10,7 +10,8 @@ Bienvenue dans mon projet ! Voici une démonstration :
 
 [Capture d'écran de l'application]
 
-<img align="center" src="https://drive.google.com/file/d/1HqUitKSGXZ0Y3ypw41Z0Jm1Y9WSi4Oem/view?usp=drive_link" alt="foko junior" height="600" width="400" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="foko junior" height="600" width="400" />
+<img align="center" src="Screenshot_2025-01-13-21-48-03-581_com.example.test_personnalite.jpg" alt="foko junior" height="600" width="400" />
+<img align="center" src="Screenshot_2025-01-13-21-48-06-486_com.example.test_personnalite.jpg" alt="foko junior" height="600" width="400" />
+<img align="center" src="Screenshot_2025-01-13-21-48-11-969_com.example.test_personnalite.jpg" alt="foko junior" height="600" width="400" />
 
 
