@@ -8,9 +8,9 @@ Bienvenue dans mon projet ! Voici une démonstration :
 
 ## Capture d'écran
 
-![Capture d'écran de l'application]
+[Capture d'écran de l'application]
 
-(assets/image1.jpeg "Dashboard")
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="foko junior" height="30" width="40" />
 (assets/image2.jpeg "Quizs Interface")
 
 
