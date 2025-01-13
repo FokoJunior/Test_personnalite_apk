@@ -10,7 +10,7 @@ class PersonalityTestApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Test de Personnalité',
-      debugShowCheckedModeBanner: false, // Désactive l'étiquette "Debug"
+      debugShowCheckedModeBanner: false, 
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
         visualDensity: VisualDensity.adaptivePlatformDensity,
